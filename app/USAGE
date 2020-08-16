@@ -1,5 +1,5 @@
 Description:
-    Yeoman generator for HTML Template.
+    Yeoman generator for HTML Template Material Design Lite.
 
 Example:
-    yo html-template
+    yo html-template-mdl
