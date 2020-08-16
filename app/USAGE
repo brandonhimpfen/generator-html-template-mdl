@@ -1,0 +1,5 @@
+Description:
+    Yeoman generator for HTML Template.
+
+Example:
+    yo html-template
