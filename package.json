@@ -1,7 +1,7 @@
 {
-  "name": "generator-html-template",
-  "version": "0.2.0",
-  "description": "Yeoman generator for HTML Template",
+  "name": "generator-html-template-mdl",
+  "version": "0.1.0",
+  "description": "Yeoman generator for HTML Template Material Design Lite",
   "keywords": [
     "yeoman-generator",
     "html",
@@ -20,7 +20,7 @@
   "files": [
     "app"
   ],
-  "repository": "bhht/generator-html-template",
+  "repository": "brandonhimpfen/generator-html-template-mdl",
   "dependencies": {
     "yeoman-generator": "^0.18.0"
   },
